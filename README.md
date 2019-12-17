@@ -1,5 +1,6 @@
 # WEC-Mods
 
-A series of Mods for Space Engineers (and maybe other games at some point)!
+A collection of Mods, Modpacks, Scripts and more for Space Engineers (and maybe other games at some point)!
 
-There's nothing here yet... Just be patient.
+This will mainly feature (some) source code, scripts and a wiki that will be accessible using my Discord Bot.
+There's nothing here yet though... Just be patient.
