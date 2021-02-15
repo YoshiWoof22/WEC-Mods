@@ -1,26 +1,28 @@
 ---
 name: Problem Report
-about: Create a problem report to help me improve my content!
+about: Create a problem report to help me fix an issue with my content!
 title: Problem - <Short summary here>
 labels: ''
 assignees: YoshiWoof22
 
 ---
 
-**Affected Mod/Blueprint**
-The name of the mod/blueprint affected by this problem.
+- [ ] (<- fill with x to accept) I have confirmed that the issue is caused by or related to **YoshiWoof22**'s content.
+
+**Related Mod/Blueprint**
+The name of the mod/blueprint related to this problem.
 
 **Problem Description**
 A clear and concise description of what the problem is.
 
-**To Reproduce (if applicable)**
+**(Optional) To Reproduce**
 Steps to reproduce the problem:
-1. Go to '...'
+1. Install/spawn '....'
 2. Click on '....'
 3. Scroll down to '....'
 
-**Media (if applicable)**
-Add screenshots/videos to help explain your problem further.
+**Logfiles & Other Media**
+Add logfiles, and optionally other media like video links to help explain your problem further.
 
-**Additional context**
-Add any other context about the problem here. Things like additional mods used, log files, etc.
+**(Optional) Attempted fixes**
+Any fixes you have already tried.
